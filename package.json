@@ -1,0 +1,12 @@
+{
+  "name": "p4",
+  "version": "1.0.0",
+  "description": "echo \"entrer le numéro du projet.\\n Projet n° ?\" read numprojet echo \"entrer l'url du projet\" read urlprojet echo \"entrer le titre du projet.\" read titleprojet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
